@@ -7,13 +7,13 @@
 .row > div {
     float: left;
     height: 100px;
-    width: 100;
+    width: 100px;
 
 }
 
 .row {
     clear: both;
-    margin: 0;
+    margin: 0 auto;
     width: 302px;
 
 }
@@ -32,6 +32,4 @@
 
 .bottom {
     border-top: 1px solid black;
-}
-
 }
